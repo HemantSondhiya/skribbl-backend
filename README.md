@@ -128,7 +128,4 @@ src/main/java/com/hemant/skribbl
   Service/       # business logic
 ```
 
-## Notes
 
-- Do not commit real credentials. Use local environment variables or a `.env` loader in development.
-- `target/` is build output and should stay out of version control.
